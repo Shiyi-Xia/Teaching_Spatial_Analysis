@@ -1,11 +1,11 @@
 # UN_International_Security_Corpus
-This is a public repo for the UN speeches and general debate on international security issues (1985 - 2021).
+This is a corpus dataset on UN Security Council Meetings and General Debate on International Security (1985 - 2021).
 # Cite
 To use this corpus data, please cite: 
 ```
 @misc{UN_International_Security_Corpus,
       howpublished = {\url{https://github.com/Shiyi-Xia/UN_International_Security_Corpus}},
-      title = {United Nations General Debates and Speeches Corpus on Security Issues},
+      title = {United Nations Security Council Meetings and General Debates on International Security},
       author = {Winnie Xia},
       publisher = {GitHub},
       year = {2021}
