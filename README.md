@@ -11,5 +11,5 @@ To use this corpus data, please cite:
       year = {2021}
 }
 ```
-# Notes:\\
+# Notes:\
 The last update: November, 2020
