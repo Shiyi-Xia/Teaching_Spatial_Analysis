@@ -5,11 +5,11 @@ To use this corpus data, please cite:
 ```
 @misc{UN_International_Security_Corpus,
       howpublished = {\url{https://github.com/Shiyi-Xia/UN_International_Security_Corpus}},
-      title = {United Nationsl General Debates and Speeches Corpus},
+      title = {United Nations General Debates and Speeches Corpus on Security Issues},
       author = {Winnie Xia},
       publisher = {GitHub},
       year = {2021}
 }
 ```
-# Notes:
-## The last update: November, 2020
+# Notes:\\
+The last update: November, 2020
